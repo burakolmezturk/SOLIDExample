@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×šø°ùÿÿÿÿ
+I
+java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8á¿Ççõ.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò„¢8øõÜçõ.
+M
+java:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿ8‰‘Ïçõ.
+Q
+java:S1068
+"/Remove this unused "openAddress" private field.(Ò¿Äòúÿÿÿÿ8å¾Ìçõ.
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8á¿Ççõ.
+I
+java:S1068	",Remove this unused "province" private field.(î€Š8ÎˆÎçõ.
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8á¿Ççõ.
